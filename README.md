@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @CapoTheBoss
-- 👀 I’m interested in Macine learning
 - 📫 How to reach me on alessandrocapici.ac@gmail.com or see my linkedin profile : https://www.linkedin.com/feed/?trk=nav_logo 
 
 <!---
